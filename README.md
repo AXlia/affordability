@@ -1,6 +1,6 @@
-# Project Name
+# Affordability Calculator
 
-> Project description
+![](/public/static/Affordability.gif)
 
 ## Related Projects
 
